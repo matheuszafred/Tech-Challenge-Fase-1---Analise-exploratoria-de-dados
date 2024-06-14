@@ -13,7 +13,7 @@ Imagine agora que vamos atuar como Experts em Data Analytics em uma empresa que 
 3. Dados econômicos.
 4. Dados de avaliações de vinhos.
 
-#### O Head de Dados pediu para construirmos uma tabela contendo as seguintes informações:
+O Head de Dados pediu para construirmos uma tabela contendo as seguintes informações:
 
 1. País de origem (Brasil)
 2. País de destino
